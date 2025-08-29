@@ -8,7 +8,7 @@ on:
 
 jobs:
   terraform:
-    name: 'Terraform Run'
+    name: 'roch'
     runs-on: self-hosted
 
 
