@@ -1,8 +1,12 @@
+   name: 'Terraform Run'
+
 on:
  push:
    branches: [ "main" ]
  pull_request:
-  workflow_dispath:
+  workflow_dispatch:
+
+
 
 jobs:
   terraform:
