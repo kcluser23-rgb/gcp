@@ -9,7 +9,7 @@ on:
 jobs:
   terraform:
     name: 'Terraform Run'
-    runs-on: self-hosted
+    runs-on: gcp
 
 
     steps:
